@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 14 Pro",
+            "desc": "Apple iPhone 14 Pro (256 GB)",
+            "price": 1499,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/61HHS0HrjpL._SX679_.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Samsung Galaxy S23",
+            "desc": "Samsung Galaxy S23 5G (Green, 8GB, 256GB Storage)",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/41V4aNRci3L._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Google Pixel 7 Pro",
+            "desc": "Google Pixel 7 Pro (Obsidian, 128 GB) (12 GB RAM)",
+            "price": 899,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/51jahbKN6AL._SL1500_.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Samsung GalaxyBook 3 Pro",
+            "desc": "Samsung Galaxy Book3 Pro Intel 13th Gen i7",
+            "price": 1599,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/318z-84K8NL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Apple MacBook Air M2",
+            "desc": "Apple 2022 MacBook Air Laptop with M2 chip:",
+            "price": 1299,
+            "color": "#33505a",
+            "image": "https://m.media-amazon.com/images/I/71eXNIDUGjL._SX679_.jpg"
+        }
+    ]
+}
